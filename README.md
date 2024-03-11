@@ -1,2 +1,2 @@
 # Fortran
-Repository for coding in Fortran
+Repository for coding in Fortran with gfortran
